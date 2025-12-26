@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "name": "Anime",
+      "path": "wallpapers/anime",
+      "count": 20
+    },
+    {
+      "name": "Nature",
+      "path": "wallpapers/nature",
+      "count": 15
+    }
+  ]
+}
